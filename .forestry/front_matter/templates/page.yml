@@ -13,4 +13,5 @@ fields:
   label: description
 pages:
 - content/_index.md
+- content/a-new-page-made-from-forestry.md
 - content/about/_index.md
